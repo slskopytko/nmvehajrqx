@@ -1,0 +1,4 @@
+- pipeline: vdtvlwieka
+  refs:
+  - refs/heads/master
+  on: CLICK
